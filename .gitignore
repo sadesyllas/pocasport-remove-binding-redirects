@@ -1,0 +1,4 @@
+*.config
+*.config-debug
+pocasport-remove-binding-redirects*
+.idea
